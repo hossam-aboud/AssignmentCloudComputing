@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "993163923640",
+    "project_id": "mobilecomputingone",
+    "storage_bucket": "mobilecomputingone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993163923640:android:02ac8c35e0a62482db644d",
+        "android_client_info": {
+          "package_name": "com.example.mobilecomputingone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993163923640-hcc5hjngcjpvsrg977hlri0u5uu51d52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobilecomputingone",
+            "certificate_hash": "f02a98bf5c9c263b52bb34a69bfcc1a4618428e0"
+          }
+        },
+        {
+          "client_id": "993163923640-k61lihv7df2qg4b8ps3mrt601rsscvnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuAQUfNDoRyQKodvqoNQ4IU5iPeEFKTCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993163923640-k61lihv7df2qg4b8ps3mrt601rsscvnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
